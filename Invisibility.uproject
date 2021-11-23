@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00EEB897-42B7-E2CF-E551-C1BE51404186}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Invisibility",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
